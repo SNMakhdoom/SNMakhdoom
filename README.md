@@ -19,8 +19,6 @@ I enjoy exploring new technologies and leveraging them to solve real-world probl
 
 ---
 
-## 🔭 Tools and Languages
-
 ## Programming Languages:
 
 <p align="left">
