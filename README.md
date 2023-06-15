@@ -114,6 +114,8 @@ I enjoy exploring new technologies and leveraging them to solve real-world probl
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a>
     <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://airflow.apache.org/images/feature-image.png" alt="airflow" width="70" height="40"/> </a>
     <a href="https://mlflow.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" alt="mlflow" width="40" height="40"/> </a>
+    <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="power-bi" width="40" height="40"/></a>
+
 
 </p>
 
