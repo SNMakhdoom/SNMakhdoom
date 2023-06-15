@@ -8,7 +8,7 @@ I enjoy exploring new technologies and leveraging them to solve real-world probl
 ###                                  Machine Learning Engineer
 
 ---
-## 📝 Briefly about me 
+## 📝 About me 
 
 - 🎓 I've recently completed my BS degree in Data Science.
 - 💻 I'm currently working on Machine Learning, Deep Learning, and Computer Vision projects.
