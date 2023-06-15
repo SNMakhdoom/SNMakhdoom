@@ -15,8 +15,7 @@ I enjoy exploring new technologies and leveraging them to solve real-world probl
 - 🌱 Always looking to learn new technologies and improve my skillset.
 - 🤔 I’m looking for interesting and challenging projects.
 - 💬 Ask me about anything related to Data Science, Machine Learning, Deep Learning, Computer Vision, and Web Development.
-- 📫 Reach out to me: sn.makhdoom@gmail.com (mailto:sn.makhdoom@gmail.com)
-
+- 📫 Reach out to me: sn.makhdoom@gmail.com
 ---
 
 ## Programming Languages:
@@ -123,7 +122,9 @@ I enjoy exploring new technologies and leveraging them to solve real-world probl
 
 ## 📈 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?SnMakhdoom=SnMakhdoom&show_icons=true&theme=gotham" alt="SnMakhdoom" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SnMakhdoom&show_icons=true&theme=gotham" alt="SnMakhdoom" />
+</p>
 
 ---
 
