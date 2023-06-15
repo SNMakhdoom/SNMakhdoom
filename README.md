@@ -18,47 +18,48 @@ I enjoy exploring new technologies and leveraging them to solve real-world probl
 
 ## 🔭 Tools and Languages
 
-![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![](https://img.shields.io/badge/Angular_JS-A100FF?style=for-the-badge&logo=angularjs&logoColor=white)
-![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white)
-![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![](https://img.shields.io/badge/Seaborn-8C1519?style=for-the-badge&logo=seaborn&logoColor=white)
-![](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white)
-
+<p align="left"> 
+<a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
+<a href="https://angularjs.org/" target="_blank" rel="noreferrer"><img src="https://angularjs.org/img/AngularJS-large.png" alt="angularjs" width="40" height="40"/> </a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="arduino" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://d1.awsstatic.com/logos/aws-logo.svg" alt="aws" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://www.learn-c.org/" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c" width="40" height="40"/> </a>
+<a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://www.cplusplus.com/logo.gif" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="css3" width="40" height="40"/> </a>
+<a href="https://d3js.org/" target="_blank" rel="noreferrer"><img src="https://d3js.org/logo.svg" alt="d3js" width="40" height="40"/> </a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="django" width="40" height="40"/> </a>
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="dotnet" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="linux" width="40" height="40"/> </a>
+<a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://mariadb.org/wp-content/uploads/2014/12/mariadb-logo-vertikal.png" alt="mariadb" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo-1.png" alt="opencv" width="40" height="40"/> </a>
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="40" height="40"/> </a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_photoshop/adobe_photoshop-icon.svg" alt="photoshop" width="40" height="40"/> </a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/> </a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/seleniumhq/seleniumhq-icon.svg" alt="selenium" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40"/> </a>
+</p>
 
 ---
 
