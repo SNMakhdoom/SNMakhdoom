@@ -1,4 +1,4 @@
-# Hi! 👋 I'm Ahsan Makhdoom (https://snmakhdoom.github.io/About-My-Self/#skills)
+# Hi! 👋 I'm Ahsan Makhdoom
 
 I'm a passionate Data Science graduate with a keen interest in Machine Learning, Deep Learning, Computer Vision, and Web Development.
 I enjoy exploring new technologies and leveraging them to solve real-world problems.
@@ -126,9 +126,9 @@ I enjoy exploring new technologies and leveraging them to solve real-world probl
 
 You can connect with me on:
 
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile/)
-- [Twitter](https://twitter.com/yourtwitterhandle)
-- [Personal Website](https://your-personal-website-link.com/)
+[<img align="left" alt="LinkedIn" width="40px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />](https://www.linkedin.com/in/muhammad-ahsan-makhdoom/)
+[<img align="left" alt="Twitter" width="40px" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" />](https://twitter.com/yourtwitterhandle)
+[<img align="left" alt="Personal Website" width="40px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />](https://snmakhdoom.github.io/About-My-Self/#skills)
 
 ---
 
