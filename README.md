@@ -136,6 +136,6 @@ You can connect with me on:
 
 [<img align="left" alt="Twitter" width="40px" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" />](https://twitter.com/yourtwitterhandle)
 
-[<img align="left" alt="Email" width="40px" src="https://www.vectorlogo.zone/logos/google/google-icon.svg" />](mailto:sn.makhdoom@gmail.com)
+[<img align="left" alt="Email" width="40px" src="https://www.vectorlogo.zone/logos/google/google-icon.svg" />](mailto:ahsanmakhdoom@hotmail.com)
 
 
