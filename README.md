@@ -9,15 +9,15 @@ I’m a dedicated Azure Data Engineer with extensive experience in Data Science,
 ---
 ## 📝 About me 
 
-	_	🎓 Education: BS in Data Science from National University of Computer and Emerging Sciences.
-	_	💻 Current Role: Data Engineer at P3P LLP (London, Remote).
-	_	🌟 Core Expertise:
-	_	Designing scalable ETL pipelines in Databricks, improving data efficiency.
-	_	Automating workflows using Streamlit, Python, and Git for enhanced productivity.
-	_	Integrating APIs and developing secure, batch workflows for seamless data transformation.
-	_	🌱 Always exploring and adopting emerging technologies to expand my skillset.
-	-	💬 Open to discussing all things related to Data Engineering, Machine Learning, MLOps, and Cloud Computing.
-	-	📫 Reach out to me: ahsanmakhdoom@hotmail.com
+	•	🎓 Education: BS in Data Science from National University of Computer and Emerging Sciences.
+	•	💻 Current Role: Data Engineer at P3P LLP (London, Remote).
+	•	🌟 Core Expertise:
+	•	Designing scalable ETL pipelines in Databricks, improving data efficiency.
+	•	Automating workflows using Streamlit, Python, and Git for enhanced productivity.
+	•	Integrating APIs and developing secure, batch workflows for seamless data transformation.
+	•	🌱 Always exploring and adopting emerging technologies to expand my skillset.
+	•	💬 Open to discussing all things related to Data Engineering, Machine Learning, MLOps, and Cloud Computing.
+	•	📫 Reach out to me: ahsanmakhdoom@hotmail.com
 ---
 
 ## Programming Languages:
