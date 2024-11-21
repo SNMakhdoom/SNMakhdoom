@@ -107,13 +107,13 @@ I’m a dedicated Azure Data Engineer with extensive experience in Data Science,
     <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" alt="mlflow" width="40" height="40"/>
   </a>
   <a href="https://www.databricks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Databricks_Logo.png/600px-Databricks_Logo.png" alt="databricks" width="100" height="40"/>
+    <img src="https://brandfetch.com/databricks.com?view=library&library=default&collection=logos&asset=idOSUN2QlG" alt="Databricks" width="40" height="40"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/fabric/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_Fabric_logo.svg/600px-Microsoft_Fabric_logo.svg.png" alt="azure fabric" width="40" height="40"/>
+    <img src="https://debruyn.dev/2023/all-microsoft-fabric-icons-for-diagramming-old-version/Fabric_256.svg" alt="Microsoft Fabric" width="40" height="40"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/azure/data-lake-store/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="data lake" width="40" height="40"/>
+    <img src="https://www.azure.cn/Images/marketing-resource/css/storage-date-lake-storage.svg" alt="Azure Data Lake" width="40" height="40"/>
   </a>
 </p>
 
@@ -138,19 +138,13 @@ I’m a dedicated Azure Data Engineer with extensive experience in Data Science,
 
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://your-vercel-deployment-url/api?username=SnMakhdoom&show_icons=true&theme=gotham" alt="SnMakhdoom" />
-</p>
----
-
 ## 💬 Connect with me
 
 You can connect with me on:
 
-[<img align="left" alt="LinkedIn" width="40px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />]([https://www.linkedin.com/in/muhammad-ahsan-makhdoom/](https://www.linkedin.com/in/00-muhammad-ahsan/))
+<a href="https://www.linkedin.com/in/00-muhammad-ahsan/" target="_blank" rel="noreferrer">
+  <img align="left" alt="LinkedIn" width="40px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+</a>
 
 [<img align="left" alt="Twitter" width="40px" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" />](https://twitter.com/yourtwitterhandle)
 
