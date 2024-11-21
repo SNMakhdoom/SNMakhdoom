@@ -128,7 +128,7 @@ I’m a dedicated Azure Data Engineer with extensive experience in Data Science,
     </td>
     <td align="center">
       <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/><br>Tableau
+        <img src="https://cdn.worldvectorlogo.com/logos/tableau-logo-1.svg" alt="Tableau" width="40" height="40"/><br>Tableau
       </a>
     </td>
   </tr>
