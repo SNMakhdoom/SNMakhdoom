@@ -107,7 +107,7 @@ I’m a dedicated Azure Data Engineer with extensive experience in Data Science,
     <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" alt="mlflow" width="40" height="40"/>
   </a>
   <a href="https://www.databricks.com/" target="_blank" rel="noreferrer">
-    <img src="https://brandfetch.com/databricks.com?view=library&library=default&collection=logos&asset=idOSUN2QlG" alt="Databricks" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" alt="Databricks" width="40" height="40"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/fabric/" target="_blank" rel="noreferrer">
     <img src="https://debruyn.dev/2023/all-microsoft-fabric-icons-for-diagramming-old-version/Fabric_256.svg" alt="Microsoft Fabric" width="40" height="40"/>
