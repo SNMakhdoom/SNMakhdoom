@@ -1,7 +1,6 @@
 # Hi! 👋 I'm Ahsan Makhdoom
 
-I'm a passionate Data Science graduate with a keen interest in Machine Learning, Deep Learning, Computer Vision, and Web Development.
-I enjoy exploring new technologies and leveraging them to solve real-world problems.
+I’m a dedicated Azure Data Engineer with extensive experience in Data Science, Machine Learning, and scalable DataOps solutions. My expertise includes building robust data architectures, developing optimized ETL pipelines, and leveraging cutting-edge technologies to solve complex, real-world problems.
 
 ---
 
@@ -10,12 +9,15 @@ I enjoy exploring new technologies and leveraging them to solve real-world probl
 ---
 ## 📝 About me 
 
-- 🎓 I've recently completed my BS degree in Data Science.
-- 💻 I'm currently working on Machine Learning, Deep Learning, and Computer Vision projects.
-- 🌱 Always looking to learn new technologies and improve my skillset.
-- 🤔 I’m looking for interesting and challenging projects.
-- 💬 Ask me about anything related to Data Science, Machine Learning, Deep Learning, Computer Vision, and Web Development.
-- 📫 Reach out to me: ahsanmakhdoom@hotmail.com
+	•	🎓 Education: BS in Data Science from National University of Computer and Emerging Sciences.
+	•	💻 Current Role: Data Engineer at P3P LLP (London, Remote).
+	•	🌟 Core Expertise:
+	•	Designing scalable ETL pipelines in Databricks, improving data efficiency.
+	•	Automating workflows using Streamlit, Python, and Git for enhanced productivity.
+	•	Integrating APIs and developing secure, batch workflows for seamless data transformation.
+	•	🌱 Always exploring and adopting emerging technologies to expand my skillset.
+	•	💬 Open to discussing all things related to Data Engineering, Machine Learning, MLOps, and Cloud Computing.
+	•	📫 Reach out to me: ahsanmakhdoom@hotmail.com
 ---
 
 ## Programming Languages:
@@ -33,11 +35,20 @@ I enjoy exploring new technologies and leveraging them to solve real-world probl
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="40" height="40"/>
+  </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.r-project.org/Rlogo.png" alt="r" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="sql" width="40" height="40"/>
   </a>
 </p>
 
