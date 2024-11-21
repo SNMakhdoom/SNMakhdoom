@@ -68,6 +68,9 @@ I’m a dedicated Azure Data Engineer with extensive experience in Data Science,
 ## Cloud:
 
 <p align="left">
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+  </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
@@ -85,9 +88,6 @@ I’m a dedicated Azure Data Engineer with extensive experience in Data Science,
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
@@ -96,9 +96,6 @@ I’m a dedicated Azure Data Engineer with extensive experience in Data Science,
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
@@ -109,15 +106,33 @@ I’m a dedicated Azure Data Engineer with extensive experience in Data Science,
   <a href="https://mlflow.org/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" alt="mlflow" width="40" height="40"/>
   </a>
+  <a href="https://www.databricks.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Databricks_Logo.png/600px-Databricks_Logo.png" alt="databricks" width="100" height="40"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/fabric/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_Fabric_logo.svg/600px-Microsoft_Fabric_logo.svg.png" alt="azure fabric" width="40" height="40"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/azure/data-lake-store/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="data lake" width="40" height="40"/>
+  </a>
 </p>
 
 ## Other:
 
-<p align="left">
-  <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="power-bi" width="40" height="40"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/><br>Power BI
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/><br>Tableau
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
@@ -127,16 +142,15 @@ I’m a dedicated Azure Data Engineer with extensive experience in Data Science,
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SnMakhdoom&show_icons=true&theme=gotham" alt="SnMakhdoom" />
+  <img src="https://your-vercel-deployment-url/api?username=SnMakhdoom&show_icons=true&theme=gotham" alt="SnMakhdoom" />
 </p>
-
 ---
 
 ## 💬 Connect with me
 
 You can connect with me on:
 
-[<img align="left" alt="LinkedIn" width="40px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />](https://www.linkedin.com/in/muhammad-ahsan-makhdoom/)
+[<img align="left" alt="LinkedIn" width="40px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />]([https://www.linkedin.com/in/muhammad-ahsan-makhdoom/](https://www.linkedin.com/in/00-muhammad-ahsan/))
 
 [<img align="left" alt="Twitter" width="40px" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" />](https://twitter.com/yourtwitterhandle)
 
